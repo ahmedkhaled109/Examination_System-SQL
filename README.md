@@ -79,7 +79,6 @@ This project showcases advanced SQL Server programming with stored procedures, t
 - Ahmed Khaled Ahmed  
 - Sherif Khaled Khalifa  
 
-**Supervised By:** Eng. Sarah Salah
  
 
 ## 📅 Date
